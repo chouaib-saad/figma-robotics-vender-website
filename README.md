@@ -6,7 +6,7 @@ Bienvenue dans **Robotix**, un prototype de site web desktop conçu pour la vent
 
 🔗 [Voir le prototype sur Figma](https://www.figma.com/design/AKqh8oqA58bYNsxEeVltJR/Untitled?node-id=0-1&t=Rgr5JZXh5GBQTfYF-1)  
 
-<img src="URL_IMAGE_PREVIEW" alt="Aperçu du design" width="800"/>
+<img src="project_overview.png" alt="Aperçu du design" width="800"/>
 
 ## 📌 Fonctionnalités du Prototype
 
